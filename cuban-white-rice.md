@@ -1,5 +1,7 @@
 # Cuban White Rice
 
+![Cuban White Rice](/images/cuban-white-rice.jpg)
+
 ## Ingredients
 Serves: 3-4 people
 
