@@ -1,5 +1,7 @@
 # Kimchi Jjigae (aka Kimchi Stew)
 
+</images/kimchi-stew.jpeg|Kimchi Stew>
+
 ## Ingredients
 Serves: 2
 
@@ -11,7 +13,7 @@ Serves: 2
 * 1-4 T Korean red pepper powder (gochugaru)
 * Green onions, chopped, for garnish
 * Optional: any other veggies you'd like (mushrooms, cabbage, carrots, etc.)
-* Optional: soft tofu
+* Optional: tofu
 * Optional: 2 eggs
 * Optional: Dadsida (Korean beef stock powder)
 
