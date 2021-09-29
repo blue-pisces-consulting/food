@@ -1,3 +1,6 @@
+---
+---
+
 # Cuban White Rice
 
 ![Cuban White Rice](/images/cuban-white-rice.jpg)
