@@ -3,7 +3,7 @@
 
 # Kimchi Jjigae (aka Kimchi Stew)
 
-![Kimchi Stew](../images/Kimchi-Stew.jpeg)
+![Kimchi Stew](/food/images/Kimchi-Stew.jpeg)
 
 ## Ingredients
 Serves: 2
