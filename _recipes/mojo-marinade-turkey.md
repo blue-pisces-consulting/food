@@ -1,6 +1,6 @@
 # Mojo Marinade Turkey
 
-![Mojo Marinade Turkey](/images/your-recipe.jpg)
+![Mojo Marinade Turkey](/food/images/mojo-marinade-turkey.jpg)
 
 ## Ingredients
 Serves: 10
