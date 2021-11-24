@@ -6,7 +6,6 @@
 Serves: 10
 
 * 12-14 lbs whole turkey thawed, neck & giblets removed
-### Garlic Mojo Marinade
 * 6 cloves garlic peeled
 * 1 teaspoon salt plus more for the skin
 * 1/2 teaspoon oregano
