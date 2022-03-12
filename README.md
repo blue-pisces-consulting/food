@@ -11,7 +11,7 @@ No matter how you got here, you're in the right place! This is where the Blue Pi
 6. Name your new file to the name of your dish with `.md` extension
 7. Enter in your recipe information and add the image file name from step 2
 8. Open a pull request named using the Jira ID and recipe name (same as step 1, take care of the formatting)
-9. Enter the info into the pull request body
+9. Enter any info you want in the pull request body
 10. Merge to main when you're ready using squash merging
 
 ## Changing a recipe
